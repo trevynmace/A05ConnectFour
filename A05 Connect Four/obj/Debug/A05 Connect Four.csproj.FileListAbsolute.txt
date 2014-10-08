@@ -1,0 +1,6 @@
+C:\Users\tmace\Documents\csis2530\assignments\A05 Connect Four\A05 Connect Four\bin\Debug\A05 Connect Four.exe.config
+C:\Users\tmace\Documents\csis2530\assignments\A05 Connect Four\A05 Connect Four\bin\Debug\A05 Connect Four.exe
+C:\Users\tmace\Documents\csis2530\assignments\A05 Connect Four\A05 Connect Four\bin\Debug\A05 Connect Four.pdb
+C:\Users\tmace\Documents\csis2530\assignments\A05 Connect Four\A05 Connect Four\obj\Debug\A05 Connect Four.csprojResolveAssemblyReference.cache
+C:\Users\tmace\Documents\csis2530\assignments\A05 Connect Four\A05 Connect Four\obj\Debug\A05 Connect Four.exe
+C:\Users\tmace\Documents\csis2530\assignments\A05 Connect Four\A05 Connect Four\obj\Debug\A05 Connect Four.pdb
